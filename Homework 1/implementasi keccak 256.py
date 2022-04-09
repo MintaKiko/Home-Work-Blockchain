@@ -1,5 +1,4 @@
 from base64 import encode
-from attr import has
 import sha3
 import os
 
